@@ -1,0 +1,38 @@
+{
+  "name": "bcat-dup-demo",
+  "version": "1.0.0",
+  "description": "A simple demo html with style for gulp watch and bcat-dup",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meir <meir.shahar@gmail.com> (https://www.linkedin.com/in/meirs)",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-util": "^3.0.6"
+  },
+  "dependencies": {
+    "gulp-livereload": "^3.8.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:meiriko/bcat-dup-demo.git"
+  },
+  "keywords": [
+    "bcat",
+    "bcat-dup",
+    "node",
+    "nodejs",
+    "gulp"
+  ],
+  "bugs": {
+    "url": "https://github.com/meiriko/bcat-dup-demo/issues"
+  },
+  "homepage": "https://github.com/meiriko/bcat-dup-demo"
+}
