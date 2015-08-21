@@ -4,7 +4,7 @@ See:
 
 How to use:
 
-install [bcag-dup](https://www.npmjs.com/package/bcat-dup): npm install -g bcat-dup
+install [bcat-dup](https://www.npmjs.com/package/bcat-dup): npm install -g bcat-dup
 
 npm install
 
