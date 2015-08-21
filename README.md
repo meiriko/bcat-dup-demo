@@ -1,6 +1,7 @@
-# node-bcat-dup DEMO
+# node-bcat-dup demo
 Demonstrates how to use bcat-dup
-See:
+
+See [my linkedin post]() for full details.
 
 How to use:
 
