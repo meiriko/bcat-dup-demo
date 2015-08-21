@@ -1,7 +1,7 @@
 # node-bcat-dup demo
 Demonstrates how to use bcat-dup
 
-See [my linkedin post]() for full details.
+See [my linkedin post](https://www.linkedin.com/pulse/see-your-gulp-updates-also-browser-meir-shahar) for full details.
 
 How to use:
 
