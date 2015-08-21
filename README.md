@@ -21,7 +21,7 @@ Open your (simple) html page in a browser: http://localhsot:3000 (change to the 
 Now open public/index.html for editing and change the content. You will here a beep when gulp starts the updats and two beeps once it is done and your web page is loaded. While this is happening, the bcat-dup tab will reflect the updates to gulp's output. These udpates are also visible in the console where you originally ran gulp.
 
 An example of streaming to browser tab without dup:
-![alt text](https://github.com/meiriko/bcat-dup-demo/raw/master/src/common/medai/bcat-demo-pre.gif "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/meiriko/bcat-dup-demo/master/media/bcat-dup-pre.gif "Logo Title Text 1")
 
 And after enabling the dup option (output is both in the console and browser tab):
-![alt text](https://github.com/meiriko/bcat-dup-demo/raw/master/src/common/medai/bcat-demo-post.gif "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/meiriko/bcat-dup-demo/master/media/bcat-dup-post.gif "Logo Title Text 1")
